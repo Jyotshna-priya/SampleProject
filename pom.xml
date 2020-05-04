@@ -48,7 +48,7 @@
     <snapshotRepository>
       <id>artifactory</id>
       <name>Internal Snapshots releases</name>
-      <url>http://localhost:8081/repository/demo/</url>
+      <url>http://localhost:8081/artifactory/demo_repo</url>
     </snapshotRepository>
   </distributionManagement>
 
