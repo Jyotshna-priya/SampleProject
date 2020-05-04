@@ -6,6 +6,12 @@
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>maven-webapp Maven Webapp</name>
+  <properties>
+  <sonar.projectKey>jp_project1</sonar.projectKey>
+  <sonar.organization>jyotshna-priya</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>0ffe9a7d487d53190c33c6c76a75fc48264adfea</sonar.login>
+</properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
