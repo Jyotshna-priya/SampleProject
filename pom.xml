@@ -41,12 +41,12 @@
   </build>
   <distributionManagement>
 	<repository>
-      <id>sample</id>
+      <id>artifactory</id>
       <name>Internal releases</name>
-      <url>http://localhost:8081/repository/demo/</url>
+      <url>http://localhost:8081/artifactory/demo_repo</url>
     </repository>
     <snapshotRepository>
-      <id>sample</id>
+      <id>artifactory</id>
       <name>Internal Snapshots releases</name>
       <url>http://localhost:8081/repository/demo/</url>
     </snapshotRepository>

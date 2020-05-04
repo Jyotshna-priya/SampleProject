@@ -1,0 +1,7 @@
+organization=jyotshna-priya
+projectKey=jp_project1
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.7420
+dashboardUrl=https://sonarcloud.io/dashboard?id=jp_project1
+ceTaskId=AXHetlQ7rhF4GFLgNdsV
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXHetlQ7rhF4GFLgNdsV
